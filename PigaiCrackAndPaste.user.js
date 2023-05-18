@@ -2,6 +2,7 @@
 // @name        批改网去除禁止粘贴
 // @namespace   Violentmonkey Scripts
 // @match       http://www.pigai.org/*
+// @match       https://www.pigai.org/*
 // @grant       none
 // @run-at      document-end
 // ==/UserScript==
